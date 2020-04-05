@@ -1,10 +1,13 @@
 # AerodynamikSim
 
+For at downloade et MacOS build af programmet, kan dette linke følges: https://drive.google.com/drive/folders/1Lw5Fy-I7NcktXyjj7nM4R9X_MK0S09mH?usp=sharing
 
-I dette repository kan man finde tre mapper:
-* Aerodynamik Sim - programmet: Dette er programmappen, og der bør være alle nødvendige elementer til at køre den (testet i Windows)
+Projektmappen, som kan importeres i Unity editoren, kan downloades på dette link: https://drive.google.com/drive/folders/1Lw5Fy-I7NcktXyjj7nM4R9X_MK0S09mH?usp=sharing
+
+I dette repository kan man finde to mapper:
+* Aerodynamik Sim - Windows Build: Dette er det færdige program til Windows
 * SrcKode: Denne mappe indeholder de rå c# filer med alle klasser som jeg har skrevet
-* Projektmappen, som kan importeres i Unity editoren, kan downloades på dette link: https://drive.google.com/drive/folders/1_thO1E4rM8kmuo7TuM4yvhDN9s7TO24i?usp=sharing
+
 
 
 Vejledning til brug:
