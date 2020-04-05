@@ -5,7 +5,7 @@ For at downloade et MacOS build af programmet, kan dette linke følges: https://
 Projektmappen, som kan importeres i Unity editoren, kan downloades på dette link: https://drive.google.com/drive/folders/1Lw5Fy-I7NcktXyjj7nM4R9X_MK0S09mH?usp=sharing
 
 I dette repository kan man finde to mapper:
-* Aerodynamik Sim - Windows Build: Dette er det færdige program til Windows
+* Aerodynamik Sim - Windows Build: Dette er det færdige program til Windows. Der medfølger en eksempel mesh til importering, men denne vil tage lang tid at simulere.
 * SrcKode: Denne mappe indeholder de rå c# filer med alle klasser som jeg har skrevet
 
 Bemærk: Windows vil give en advarsel ved første opstart pga. manglende licens
