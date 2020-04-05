@@ -8,7 +8,7 @@ I dette repository kan man finde to mapper:
 * Aerodynamik Sim - Windows Build: Dette er det færdige program til Windows
 * SrcKode: Denne mappe indeholder de rå c# filer med alle klasser som jeg har skrevet
 
-
+Bemærk: Windows vil give en advarsel ved første opstart pga. manglende licens
 
 Vejledning til brug:
 
